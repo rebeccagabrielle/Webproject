@@ -1,0 +1,82 @@
+/*Estilo justa*/
+
+body {
+    font-family: 'Ultra', serif;
+
+}
+
+img{
+    width: 100px;
+    margin: 10px;
+    
+}
+
+.text{
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+
+.vs {
+    font-size: 100px;
+    margin: 10px;
+}
+
+.boton{
+    margin: 50px;
+}
+
+
+
+/*Estilos tabla*/
+
+table.carinfo {
+    border-color: #ffffff;
+    border-collapse: separate;
+    border-radius: 10px;
+    border-width: 5px;
+    font-family: "verdana","arial",sans-serif;
+    font-size:14px;
+    margin: 26px auto;
+    width: 50%;
+}
+
+table.carinfo th {
+    padding: 10px 8px;
+    text-align: center;
+    margin: 5px;
+    background: #E94651;
+    border-radius: 10px;
+    color:#ffffff;
+    border: 1px solid #ffffff;
+}
+
+table.carinfo td {
+    padding: 8px 8px;
+    background: #F4F4F4;
+    border-radius: 10px;
+    color:#333333;
+    border: 1px solid #ffffff;
+}
+
+table.carinfo th p{
+    margin:0px;
+    padding:8px;
+    border-top: 1px solid #3CD98B;
+    border-radius: 10px;
+    color:#333333;
+    border-bottom:0px;
+    border-left: 1px solid #ffffff;
+    border-right:0px;
+}
+
+table.carinfo td p{
+    margin:0px;
+    padding:8px;
+    border-top: 1px solid #F4F4F4;
+    border-radius: 10px;
+    color:#333333;
+    border-bottom:0px;
+    border-left: 1px solid #ffffff;;
+    border-right:0px;
+
+}
